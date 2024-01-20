@@ -6,6 +6,7 @@ Front-end : Figma, Angular 14
 Back-end : Java 11, Spring Boot 3, Spring Data JPA, Spring Security
 Base de données : MySQL
 Outils de construction : Maven
+
 Fonctionnalités Principales
 Gestion Intuitive : Interface utilisateur conviviale pour une gestion aisée des stocks.
 Traçabilité : Suivi détaillé des mouvements d'inventaire pour une traçabilité complète.
