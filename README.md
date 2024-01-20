@@ -1,5 +1,4 @@
-Gestion-de-Stock
-L'application de gestion de stock est une solution complète conçue pour simplifier et optimiser le suivi des stocks d'une entreprise. Elle offre une interface conviviale permettant aux utilisateurs de gérer efficacement les niveaux de stock, de suivre les mouvements d'inventaire, et de générer des rapports pertinents.
+Gestion-de-Stock : L'application de gestion de stock est une solution complète conçue pour simplifier et optimiser le suivi des stocks d'une entreprise. Elle offre une interface conviviale permettant aux utilisateurs de gérer efficacement les niveaux de stock, de suivre les mouvements d'inventaire, et de générer des rapports pertinents.
 
 *Technologies Utilisées
 
